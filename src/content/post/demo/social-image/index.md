@@ -34,6 +34,9 @@ ogImage: "/social-card.avif"
 
 通过编辑 `src/pages/og-image/[...slug].png.ts` 控制生成规则。
 
+
 此举会增加构建时间，极大地增加构建体积。
 
 推荐全部文章使用一张图片，作为默认的社交图片。
+
+![ImgURL-normal](https://s3.uuu.ovh/imgs/2025/04/15/b5d6edf37f6ece73.png)
