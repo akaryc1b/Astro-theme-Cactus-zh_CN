@@ -9,15 +9,13 @@ Astro 仙人掌 是一个基于 Astro 框架的博客主题，使用 Astro 和 T
 
 原主题地址: https://github.com/chrismwilliams/astro-theme-cactus
 
-## 演示站点 💻
 
-点击预览 [Demo](https://demo.343700.xyz/)
 
 ## 快速开始 🚀
 
 ### A、网页编辑模式
 
-教学视频：[【零基础】【零成本】搭建一个属于自己的Astro博客网站](https://www.bilibili.com/video/BV18eCpYcEAk)
+
 
 1. 点击 Fork 按钮，复制本项目到你的GitHub 仓库
 2. [Vercel](vercel.com) 注册登录，关联 GitHub 账户，导入仓库
