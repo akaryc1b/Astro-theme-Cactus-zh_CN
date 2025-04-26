@@ -23,7 +23,7 @@ pnpm-debug.log*
 *.pem
 .cache
 .astro
-.vscode
+.vscode/
 pnpm-lock.yaml
 package-lock.json
 .idea/
